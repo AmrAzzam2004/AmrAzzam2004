@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Amr%20Azzam-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/amr-azzam-04605a2b6/)
+[![GitHub](https://img.shields.io/badge/AmrAzzam2004-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrAzzam2004)
+[![Gmail](https://img.shields.io/badge/amrazzam2444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrazzam2444@gmail.com)
 
 </div>
 
@@ -102,8 +102,8 @@ Database Design       █████████░░░░░░░  58%
 
 *I'm always open to collaborating on interesting projects, internship opportunities, or just a good tech conversation!*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Amr%20Azzam-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/amr-azzam-04605a2b6/)
+[![Email](https://img.shields.io/badge/amrazzam2444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrazzam2444@gmail.com)
 
 </div>
 
@@ -111,7 +111,7 @@ Database Design       █████████░░░░░░░  58%
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AmrAzzam2004&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
