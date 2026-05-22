@@ -63,18 +63,6 @@ I'm a passionate **Computer Science student** at **Elsewedy University of Techno
 
 ---
 
-## 🚀 What I Build
-
-```
-Full-Stack Web Apps    ████████████░░░░  75%
-Mobile Apps (Flutter) ████████░░░░░░░░  50%
-Backend APIs          ██████████░░░░░░  62%
-UI/UX Design          ███████░░░░░░░░░  45%
-Database Design       █████████░░░░░░░  58%
-```
-
----
-
 ## 🌱 Currently Learning
 
 - 🏗️ **System Design** – Scalable architecture patterns
